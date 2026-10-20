@@ -1,0 +1,22 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "vitest run",
+  "start": "tsx src/ejercicio-funcional-libros.ts"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsaucedelagente/Tienda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/elsaucedelagente/Tienda/issues"
+  },
+  "homepage": "https://github.com/elsaucedelagente/Tienda#readme"
+}
